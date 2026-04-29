@@ -62,4 +62,4 @@ Start the server
 
 ## 🐛 Bug Reporting
 
-Feel free to [open an issue](https://github.com/IamEzio/Hospitalo/issues) on GitHub if you find any bug.
+Feel free to [open an issue](https://github.com/codesage01/Hospitalo/issues) on GitHub if you find any bug.
